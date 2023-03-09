@@ -58,9 +58,9 @@ The output of the decoder is a reconstructed sequence called "rec420.yuv".
  - Generalize to other Inter coding models
 
 ## References : 
-https://github.com/Orange-OpenSource/AIVC
-https://github.com/jorge-pessoa/pytorch-gdn
-https://github.com/jorge-pessoa/pytorch-msssim
+- https://github.com/Orange-OpenSource/AIVC
+- https://github.com/jorge-pessoa/pytorch-gdn
+- https://github.com/jorge-pessoa/pytorch-msssim
 
 ## Licence :
 BSD 3-Clause License
