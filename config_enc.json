@@ -1,0 +1,12 @@
+{
+    "yuv_path": "../model_AI/BasketballDrill_832x480_50_420.yuv",
+    "GOP_type":"All_Intra",
+    "GOP_size": 1, 
+    "N_overlap": 4,
+    "patch_w": 256,
+    "patch_h": 256,   
+    "lambda": 220,
+    "start_frame": 0,
+    "nbr_frame" : 5  
+    	
+}

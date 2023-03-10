@@ -1,0 +1,7 @@
+{
+    "N_parallel": 8,
+    "model_path_enc": "./encoders/enc_msssim_l220.pth.tar", 
+    "model_path_dec": "./decoders/dec_msssim_l220.pth.tar", 
+    "flag_md5sum": "True", 
+    "device" :  "cuda:0"  	
+}
