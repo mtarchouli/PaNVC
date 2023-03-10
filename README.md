@@ -64,6 +64,9 @@ The output of the decoder is a reconstructed sequence called "rec420.yuv".
 - https://github.com/jorge-pessoa/pytorch-gdn
 - https://github.com/jorge-pessoa/pytorch-msssim
 
+## Contact
+- Email : m.tarchouli@ateme.com
+
 ## Licence :
 BSD 3-Clause License
 
