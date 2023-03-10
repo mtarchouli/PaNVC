@@ -14,7 +14,7 @@ conda env create -f env_python.yml
 ```
 Then clone this repository  using : 
 ```
-git clone "lien projet"
+git clone https://github.com/mtarchouli/PaNVC.git
 ```
 
 ## Usage 
