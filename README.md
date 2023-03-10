@@ -1,8 +1,10 @@
 # PaNVC : Parallel Neural Video Coding
 PaNVC is a framework for learned video coding, adapted to practical constraints. 
+
 More details about the functionning of this framework are described in the following paper : 
 "Marwa Tarchouli, Marc Rivière, Thomas Guionnet, Mickael Raulet, Wassim Hamidouche,, Meriem Outtas and Olivier Deforges, AI-BASED LIGHT
 PARALLEL VIDEO ENCODER. In Proceedings of Mile-High Video Conference 2023 (MHV ’23). ACM, New York, NY, USA "
+
 This project is a collaboration between Ateme and Insa Rennes, as a part of my PhD work.
 ## Environment  
 To set a python environment for this framework, we provide the file env_python.yml, regrouping all the packages necessary for this project. 
